@@ -1,0 +1,28 @@
+@page
+{
+    size:A4;
+    margin: 0;
+}
+
+#print-btn
+{
+    display: none;
+    visibility: none;
+}
+
+#back
+{
+    display: none;
+    visibility: none;
+}
+
+.has-ripple
+{
+    display: none;
+    visibility: none;
+}
+.fixed-button
+{
+    display: none;
+    visibility: none;
+}
